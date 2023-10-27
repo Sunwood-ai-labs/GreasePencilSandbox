@@ -4,4 +4,4 @@
 
 [PC_monitor.blend](PC_monitor.blend)
 
-![](Assets\pcmon.gif)
+![](https://github.com/Sunwood-ai-labs/GreasePencilSandbox/blob/main/Assets/pcmon.gif?raw=true)
